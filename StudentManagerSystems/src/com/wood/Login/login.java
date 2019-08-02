@@ -1,4 +1,4 @@
-package www.wood.com;
+package com.wood.Login;
 
 import java.awt.GridLayout;
 
